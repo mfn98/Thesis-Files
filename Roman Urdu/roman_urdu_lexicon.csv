@@ -1,0 +1,224 @@
+word,sentiment,score,source,category,script
+achi,positive,0.8,web-compiled-citations,polarity,roman-urdu
+acha,positive,0.8,web-compiled-citations,polarity,roman-urdu
+achay,positive,0.8,web-compiled-citations,polarity,roman-urdu
+achha,positive,0.8,web-compiled-citations,polarity,roman-urdu
+accha,positive,0.8,web-compiled-citations,polarity,roman-urdu
+behtareen,positive,0.8,web-compiled-citations,polarity,roman-urdu
+behtarin,positive,0.8,web-compiled-citations,polarity,roman-urdu
+kamaal,positive,0.8,web-compiled-citations,polarity,roman-urdu
+kamal,positive,0.8,web-compiled-citations,polarity,roman-urdu
+kamal ka,positive,0.8,web-compiled-citations,polarity,roman-urdu
+shandar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+shandaar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+zabardast,positive,0.8,web-compiled-citations,polarity,roman-urdu
+lajawab,positive,0.8,web-compiled-citations,polarity,roman-urdu
+umdah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+umda,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mast,positive,0.8,web-compiled-citations,polarity,roman-urdu
+pyara,positive,0.8,web-compiled-citations,polarity,roman-urdu
+pyare,positive,0.8,web-compiled-citations,polarity,roman-urdu
+pyari,positive,0.8,web-compiled-citations,polarity,roman-urdu
+khoobsurat,positive,0.8,web-compiled-citations,polarity,roman-urdu
+khubsurat,positive,0.8,web-compiled-citations,polarity,roman-urdu
+dilkash,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mubarak,positive,0.8,web-compiled-citations,polarity,roman-urdu
+sahi,positive,0.8,web-compiled-citations,polarity,roman-urdu
+thik,positive,0.8,web-compiled-citations,polarity,roman-urdu
+theek,positive,0.8,web-compiled-citations,polarity,roman-urdu
+wah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+waah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+behtar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+behter,positive,0.8,web-compiled-citations,polarity,roman-urdu
+laajawab,positive,0.8,web-compiled-citations,polarity,roman-urdu
+qeemti,positive,0.8,web-compiled-citations,polarity,roman-urdu
+munasib,positive,0.8,web-compiled-citations,polarity,roman-urdu
+maze daar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mazedar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mazaidar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mazydar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+shaandar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+badhiya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+badiya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+sundar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+buri,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bura,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bure,negative,0.8,web-compiled-citations,polarity,roman-urdu
+ghatiya,negative,0.8,web-compiled-citations,polarity,roman-urdu
+ghatia,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bakwass,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bakwas,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bekar,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bekaar,negative,0.8,web-compiled-citations,polarity,roman-urdu
+kharab,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bara kharab,negative,0.8,web-compiled-citations,polarity,roman-urdu
+kharab tareen,negative,0.8,web-compiled-citations,polarity,roman-urdu
+gande,negative,0.8,web-compiled-citations,polarity,roman-urdu
+ganda,negative,0.8,web-compiled-citations,polarity,roman-urdu
+gandi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+ghanda,negative,0.8,web-compiled-citations,polarity,roman-urdu
+zaleel,negative,0.8,web-compiled-citations,polarity,roman-urdu
+barbaad,negative,0.8,web-compiled-citations,polarity,roman-urdu
+barbad,negative,0.8,web-compiled-citations,polarity,roman-urdu
+nikamma,negative,0.8,web-compiled-citations,polarity,roman-urdu
+nikammi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+fazool,negative,0.8,web-compiled-citations,polarity,roman-urdu
+badtareen,negative,0.8,web-compiled-citations,polarity,roman-urdu
+nakis,negative,0.8,web-compiled-citations,polarity,roman-urdu
+naqis,negative,0.8,web-compiled-citations,polarity,roman-urdu
+thaka hua,negative,0.8,web-compiled-citations,polarity,roman-urdu
+jalil,negative,0.8,web-compiled-citations,polarity,roman-urdu
+pareshan-kun,negative,0.8,web-compiled-citations,polarity,roman-urdu
+pareshan kun,negative,0.8,web-compiled-citations,polarity,roman-urdu
+ghussay wala,negative,0.8,web-compiled-citations,polarity,roman-urdu
+ghusse wala,negative,0.8,web-compiled-citations,polarity,roman-urdu
+najayaz,negative,0.8,web-compiled-citations,polarity,roman-urdu
+boring,negative,0.8,web-compiled-citations,polarity,roman-urdu
+tension,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bohat,,0.5,linguistic-modifier,intensifier,roman-urdu
+bohot,,0.5,linguistic-modifier,intensifier,roman-urdu
+bohut,,0.5,linguistic-modifier,intensifier,roman-urdu
+boht,,0.5,linguistic-modifier,intensifier,roman-urdu
+bahut,,0.5,linguistic-modifier,intensifier,roman-urdu
+bahot,,0.5,linguistic-modifier,intensifier,roman-urdu
+zyada,,0.5,linguistic-modifier,intensifier,roman-urdu
+ziyada,,0.5,linguistic-modifier,intensifier,roman-urdu
+ziada,,0.5,linguistic-modifier,intensifier,roman-urdu
+kafi,,0.5,linguistic-modifier,intensifier,roman-urdu
+kaafi,,0.5,linguistic-modifier,intensifier,roman-urdu
+behad,,0.5,linguistic-modifier,intensifier,roman-urdu
+be hadd,,0.5,linguistic-modifier,intensifier,roman-urdu
+be-had,,0.5,linguistic-modifier,intensifier,roman-urdu
+behadd,,0.5,linguistic-modifier,intensifier,roman-urdu
+had se zyada,,0.5,linguistic-modifier,intensifier,roman-urdu
+had se ziyada,,0.5,linguistic-modifier,intensifier,roman-urdu
+beshumar,,0.5,linguistic-modifier,intensifier,roman-urdu
+beshumaar,,0.5,linguistic-modifier,intensifier,roman-urdu
+bilkul,,0.5,linguistic-modifier,intensifier,roman-urdu
+baray hi,,0.5,linguistic-modifier,intensifier,roman-urdu
+bohat hi,,0.5,linguistic-modifier,intensifier,roman-urdu
+baarha,,0.5,linguistic-modifier,intensifier,roman-urdu
+nihayat,,0.5,linguistic-modifier,intensifier,roman-urdu
+nihayat hi,,0.5,linguistic-modifier,intensifier,roman-urdu
+thora,,0.5,linguistic-modifier,diminisher,roman-urdu
+thora sa,,0.5,linguistic-modifier,diminisher,roman-urdu
+thori,,0.5,linguistic-modifier,diminisher,roman-urdu
+thori si,,0.5,linguistic-modifier,diminisher,roman-urdu
+thore,,0.5,linguistic-modifier,diminisher,roman-urdu
+zara,,0.5,linguistic-modifier,diminisher,roman-urdu
+zara sa,,0.5,linguistic-modifier,diminisher,roman-urdu
+thoda,,0.5,linguistic-modifier,diminisher,roman-urdu
+thoda sa,,0.5,linguistic-modifier,diminisher,roman-urdu
+kuch,,0.5,linguistic-modifier,diminisher,roman-urdu
+thora sa hi,,0.5,linguistic-modifier,diminisher,roman-urdu
+halka sa,,0.5,linguistic-modifier,diminisher,roman-urdu
+kam,,0.5,linguistic-modifier,diminisher,roman-urdu
+thori der,,0.5,linguistic-modifier,diminisher,roman-urdu
+nahi,,0.5,linguistic-modifier,negator,roman-urdu
+nahin,,0.5,linguistic-modifier,negator,roman-urdu
+naheen,,0.5,linguistic-modifier,negator,roman-urdu
+na,,0.5,linguistic-modifier,negator,roman-urdu
+mat,,0.5,linguistic-modifier,negator,roman-urdu
+bilkul nahi,,0.5,linguistic-modifier,negator,roman-urdu
+bilkul bhi nahi,,0.5,linguistic-modifier,negator,roman-urdu
+hargez nahi,,0.5,linguistic-modifier,negator,roman-urdu
+hargiz nahi,,0.5,linguistic-modifier,negator,roman-urdu
+kabhi nahi,,0.5,linguistic-modifier,negator,roman-urdu
+bilkul na,,0.5,linguistic-modifier,negator,roman-urdu
+khush,positive,0.8,web-compiled-citations,polarity,roman-urdu
+khushi,positive,0.8,web-compiled-citations,polarity,roman-urdu
+sukoon,positive,0.8,web-compiled-citations,polarity,roman-urdu
+dil khush,positive,0.8,web-compiled-citations,polarity,roman-urdu
+dilkush,positive,0.8,web-compiled-citations,polarity,roman-urdu
+sahi kaam,positive,0.8,web-compiled-citations,polarity,roman-urdu
+kaam sahi,positive,0.8,web-compiled-citations,polarity,roman-urdu
+tareef,positive,0.8,web-compiled-citations,polarity,roman-urdu
+tarif,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mashallah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mashaallah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mashallah!,positive,0.8,web-compiled-citations,polarity,roman-urdu
+jazakallah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+jazak allah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+shukriya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+shukria,positive,0.8,web-compiled-citations,polarity,roman-urdu
+wah wah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+waah waah,positive,0.8,web-compiled-citations,polarity,roman-urdu
+dil jeet liya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+maza aa gaya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+maza agaya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+maze ka,positive,0.8,web-compiled-citations,polarity,roman-urdu
+mazay ka,positive,0.8,web-compiled-citations,polarity,roman-urdu
+sasta,positive,0.8,web-compiled-citations,polarity,roman-urdu
+pyaari,positive,0.8,web-compiled-citations,polarity,roman-urdu
+dildar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+zinda dil,positive,0.8,web-compiled-citations,polarity,roman-urdu
+kamal kar diya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+kamaal kar diya,positive,0.8,web-compiled-citations,polarity,roman-urdu
+kamaal ka,positive,0.8,web-compiled-citations,polarity,roman-urdu
+umdah tareen,positive,0.8,web-compiled-citations,polarity,roman-urdu
+umda tareen,positive,0.8,web-compiled-citations,polarity,roman-urdu
+behtareen se bhi upar,positive,0.8,web-compiled-citations,polarity,roman-urdu
+faltu,negative,0.8,web-compiled-citations,polarity,roman-urdu
+baykar,negative,0.8,web-compiled-citations,polarity,roman-urdu
+baykaar,negative,0.8,web-compiled-citations,polarity,roman-urdu
+be kar,negative,0.8,web-compiled-citations,polarity,roman-urdu
+galat,negative,0.8,web-compiled-citations,polarity,roman-urdu
+galt,negative,0.8,web-compiled-citations,polarity,roman-urdu
+jhoot,negative,0.8,web-compiled-citations,polarity,roman-urdu
+jhuta,negative,0.8,web-compiled-citations,polarity,roman-urdu
+jhooti,negative,0.8,web-compiled-citations,polarity,roman-urdu
+naraz,negative,0.8,web-compiled-citations,polarity,roman-urdu
+narazgi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+ghussa,negative,0.8,web-compiled-citations,polarity,roman-urdu
+gussa,negative,0.8,web-compiled-citations,polarity,roman-urdu
+mehnga,negative,0.8,web-compiled-citations,polarity,roman-urdu
+mahenga,negative,0.8,web-compiled-citations,polarity,roman-urdu
+mehengi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+mehngay,negative,0.8,web-compiled-citations,polarity,roman-urdu
+der ho gai,negative,0.8,web-compiled-citations,polarity,roman-urdu
+der hogayi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+masla,negative,0.8,web-compiled-citations,polarity,roman-urdu
+maslay,negative,0.8,web-compiled-citations,polarity,roman-urdu
+slow,negative,0.8,web-compiled-citations,polarity,roman-urdu
+hang,negative,0.8,web-compiled-citations,polarity,roman-urdu
+hang hota,negative,0.8,web-compiled-citations,polarity,roman-urdu
+hang hona,negative,0.8,web-compiled-citations,polarity,roman-urdu
+lag,negative,0.8,web-compiled-citations,polarity,roman-urdu
+laggy,negative,0.8,web-compiled-citations,polarity,roman-urdu
+bug,negative,0.8,web-compiled-citations,polarity,roman-urdu
+boriyat,negative,0.8,web-compiled-citations,polarity,roman-urdu
+boreiyat,negative,0.8,web-compiled-citations,polarity,roman-urdu
+kamzor,negative,0.8,web-compiled-citations,polarity,roman-urdu
+kamzori,negative,0.8,web-compiled-citations,polarity,roman-urdu
+zalim,negative,0.8,web-compiled-citations,polarity,roman-urdu
+nafrat,negative,0.8,web-compiled-citations,polarity,roman-urdu
+afsos,negative,0.8,web-compiled-citations,polarity,roman-urdu
+afsoos,negative,0.8,web-compiled-citations,polarity,roman-urdu
+pachtawa,negative,0.8,web-compiled-citations,polarity,roman-urdu
+pachtaawa,negative,0.8,web-compiled-citations,polarity,roman-urdu
+afsurdah,negative,0.8,web-compiled-citations,polarity,roman-urdu
+afsurdgi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+beraham,negative,0.8,web-compiled-citations,polarity,roman-urdu
+berahmi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+tang,negative,0.8,web-compiled-citations,polarity,roman-urdu
+tang karna,negative,0.8,web-compiled-citations,polarity,roman-urdu
+thakawat,negative,0.8,web-compiled-citations,polarity,roman-urdu
+acha nahi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+achha nahi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+accha nahi,negative,0.8,web-compiled-citations,polarity,roman-urdu
+acha nahi laga,negative,0.8,web-compiled-citations,polarity,roman-urdu
+achha nahi laga,negative,0.8,web-compiled-citations,polarity,roman-urdu
+itna,,0.5,linguistic-modifier,intensifier,roman-urdu
+itni,,0.5,linguistic-modifier,intensifier,roman-urdu
+itne,,0.5,linguistic-modifier,intensifier,roman-urdu
+bahut hi,,0.5,linguistic-modifier,intensifier,roman-urdu
+zyada hi,,0.5,linguistic-modifier,intensifier,roman-urdu
+kaafi zyada,,0.5,linguistic-modifier,intensifier,roman-urdu
+thori thori,,0.5,linguistic-modifier,diminisher,roman-urdu
+thora hi,,0.5,linguistic-modifier,diminisher,roman-urdu
+zara si,,0.5,linguistic-modifier,diminisher,roman-urdu
+bus thora,,0.5,linguistic-modifier,diminisher,roman-urdu
+nhi,,0.5,linguistic-modifier,negator,roman-urdu
+nahee,,0.5,linguistic-modifier,negator,roman-urdu
+bilkul naheen,,0.5,linguistic-modifier,negator,roman-urdu
+bilkul bhi na,,0.5,linguistic-modifier,negator,roman-urdu
